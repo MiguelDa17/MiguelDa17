@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MiguelDa17
-- 👀 I’m interested in .. El desarrollo web  Frontend
-- 🌱 I’m currently learning todo lo relacionado con el desarrollo web  Frontend
-- 💞️ I’m looking to collaborate on ... Proyectos  Frontend para asi poder aprender mas
-- 📫 How to reach me  directamente en mi correo o en mi Instagram - MiguelDa17
+- 👀 I’m interested in .. Testing and automation
+- 🌱 I’m currently  automation with cucumber and java.
+- 💞️ I’m looking to collaborate on ...  everything related to testing and RoR
+- 📫 How to reach me 📫 How to contact me Linkedin profile https://www.linkedin.com/in/miguel-davila-/
 
 <!---
 MiguelDa17/MiguelDa17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
