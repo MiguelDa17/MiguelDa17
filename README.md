@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiguelDa17
 - 👀 I’m interested in .. Testing and automation
-- 🌱 I’m currently  automation with cucumber and java.
+- 🌱 I’m currently  automation with playwright.
 - 💞️ I’m looking to collaborate on ...  everything related to testing 
 - 📫 How to reach me 📫 How to contact me Linkedin profile https://www.linkedin.com/in/miguel-davila-/
 
